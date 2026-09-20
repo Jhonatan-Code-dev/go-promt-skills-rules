@@ -1,0 +1,2 @@
+# go-promt-skills-rules
+
