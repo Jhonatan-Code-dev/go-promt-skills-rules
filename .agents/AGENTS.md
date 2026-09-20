@@ -39,3 +39,6 @@
    - Descomposición en Historias de Usuario y Criterios de Aceptación (DoD).
 16. **ESTÁNDAR DE INGENIERÍA GO CORE TEAM (GOOGLE)**: [`golang-principal-engineer-standard.md`](.agents/rules/golang-principal-engineer-standard.md)
    - Rigor técnico de clase mundial.
+17. **DOCUMENTACIÓN DE PAQUETES GO Y CUMPLIMIENTO ST1000**: [`golang-package-documentation.md`](.agents/rules/golang-package-documentation.md)
+   - **MANDATO OBLIGATORIO**: Todo paquete DEBE incluir al menos un archivo con comentario de paquete en español (`// Package <nombre> ...`) eliminando advertencias ST1000 de linters.
+
